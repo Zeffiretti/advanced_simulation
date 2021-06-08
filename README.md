@@ -1,2 +1,2 @@
 # advanced_simulation
-GAMES201 materials
+GAMES201 notes
